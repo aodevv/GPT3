@@ -3,10 +3,10 @@ import "./CTA.css";
 
 const CTA = () => {
   return (
-    <div className="gpt3__cta section__margin">
+    <div className="gpt3__cta ">
       <div className="gpt3__cta-heading">
         <p>Request Early Access to Get Started</p>
-        <h2>Register today & start exploring the endless possiblities.</h2>
+        <h3>Register today & start exploring the endless possiblities.</h3>
       </div>
       <div className="gpt3__cta-button">
         <button type="button">Get Started</button>
